@@ -1,0 +1,37 @@
+# Joomla Contributor Agreement
+These terms apply to your contribution to the product and project managed by Open Source Matters, Inc. (“OSM”) and known as “Joomla!.” This is a legal document that sets out the rights you grant to OSM in the Contribution. If you agree to be bound by these terms, fill in the information below and provide your signature. Please read this agreement carefully before signing and contact OSM at legal@joomla.org if you have any questions.
+
+1. “Contribution” means any source code, object code, script, patch, tool, sample, graphic, video, audio, specification, manual, documentation, or any other material you post, commit to a repository or otherwise submit to OSM.
+
+2. Except as set out below, you keep all right, title, and interest in the Contribution. The rights you grant to OSM under these terms are effective on the date you first submitted a Contribution to OSM, even if your submission took place before the date you sign these terms. OSM will only make the Contribution available under one or more of the following licenses (the “Acceptable Licenses”):
+
+   a. GNU General Public License (version 2 or later) (the “GPL”);
+   b. GNU Affero General Public Licence (version 3 or later) (the “AGPL”);
+   c. GNU Lesser General Public License (version 2.1 or later) (the “LGPL”);
+   d. Joomla! Electronic Documentation License (version 1 or later) (for contributions other than software);
+   e. GPL plus a provision that does nothing except, in certain circumstances, allows the work to be combined with other software programs or libraries as if it were released under LGPL;
+   f. Creative Commons Attribution-Share Alike License (version 3 or later) (for Contributions other than software).
+
+3. With respect to any worldwide copyrights, copyright applications and copyright registrations in the Contribution, and subject to the limitations imposed by Section 2, above:
+
+- [ ] a. If you agree to assign to OSM joint ownership over the Contribution, please indicate so by checking this box.
+
+      b. In addition, you grant OSM a license to the Contribution under the terms of any, several and all of the Acceptable Licenses;
+
+      c. To the extent that you do not agree to this assignment or the assignment is or becomes unenforceable, you grant OSM a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free, sublicensable, unrestricted license to exercise all rights under those copyrights, subject to the limitations imposed in Section 2, above;
+
+      d. For purposes of enforcement and publishing the Contribution, each party can do all things in relation to the Contribution as if each party were the sole owners (subject to the limitations in Section 2), and if one party makes a derivative work of the Contribution (for example, if OSM incorporates the Contribution into the Joomla! software package), the one who makes the derivative work (or has it made) will be the sole owner of that derivative work;
+
+      e. Neither you nor OSM will assert any moral rights in the Contribution against the other, any licensees or transferees;
+
+      f. OSM may register copyrights in the Contribution and exercise all ownership rights associated with it; and
+
+      g. Neither party has any duty to consult with, obtain the consent of, pay, or render an accounting to the other for any use or distribution of the Contribution.
+
+4. With respect to any patents applicable to the Contribution that you own or control, or that you can license without payment to any third party, you grant to OSM a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free, sublicensable license to make, have made, use, sell, offer to sell, import, and otherwise transfer the Contribution (or copyright derivatives thereof) in whole or in part, alone or in combination with or included in any product, work or materials arising out of Joomla! to which the Contribution was submitted, and to sublicense these same rights to third parties.
+
+5. With respect to the Contribution, you represent and warrant that:
+      a. it is an original work and that you can legally grant the rights set out in these terms; and
+      b. its distribution does not to the best of your knowledge violate any third partyʼs copyrights, trademarks, patents, trade secret or other intellectual rights.
+
+6. These terms will be governed by the laws of the State of New York in the United States of America, irrespective of any choice of law rules that might apply. If any of these terms is or becomes unenforceable, that shall not affect the enforceability of any other terms, and all other terms shall, to whatever extent possible, give force to the unenforceable language. This agreement supersedes any prior agreements regarding the Contribution. Nothing in this agreement is intended to create any rights or benefits for any parties not signatory to this agreement.
